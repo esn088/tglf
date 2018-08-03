@@ -1,0 +1,16 @@
+table{
+   
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.4em;
+    font-style: normal;
+    border-collapse:separate;
+    background-color:#DEF3CA;
+    border: 2px solid #E7EFE0;
+}
+
+td{
+    width:20px;
+    height: 20px;
+}
