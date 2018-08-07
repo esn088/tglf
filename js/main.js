@@ -1,6 +1,6 @@
 
-senator();
-function senator(){
+senator(data1);
+function senator(data){
     
     var members=data.results[0].members;
     var table= document.getElementById("senate");
