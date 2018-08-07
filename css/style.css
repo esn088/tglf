@@ -1,0 +1,10 @@
+.container{
+    margin-top: 20%;
+}
+.fondito{
+    background-image: url("../imagens/slider-transparency11.jpg");
+    margin-bottom:0%;
+    background-size: cover;
+    height: 100%;
+    
+}

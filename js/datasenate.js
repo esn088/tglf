@@ -4846,4 +4846,3 @@ var data={
    ]
 }
 
-var r =document.create
